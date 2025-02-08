@@ -24,3 +24,9 @@ Technologies Used:
 
 Java (JDK 8+)
 Swing (GUI Framework)
+
+
+License
+
+This project is open-source and available under the MIT License.
+
